@@ -12325,4 +12325,19 @@ p.remind-43 {
   display: table;
 }
 
+#go_up{
+  width:50px;
+  height:50px;
+  position:relative;
+  bottom:70px;
+  right:70px;
+  border-radius:50px;
+  border:2px solid white;
+  color:white;
+  background-color:transparent;
+}
+#go_up:hover{
+  color:black;
+  background-color:white;
+}
 /*# sourceMappingURL=slides.css.map */
